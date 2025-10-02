@@ -2,10 +2,6 @@
 
 Un outil Python simple pour valider la robustesse des mots de passe selon les bonnes pratiques de cybersécurité.
 
-## Objectif du projet
-
-Projet développé dans le cadre de ma candidature pour le poste d'**Alternant Développeur Cybersécurité Cloud** chez Société Générale.
-
 ### Compétences démontrées :
 - **Python** : Développement d'outils de sécurité
 - **DevSecOps** : Tests automatisés et bonnes pratiques
@@ -25,7 +21,7 @@ Projet développé dans le cadre de ma candidature pour le poste d'**Alternant D
 
 ```bash
 # Cloner le projet
-git clone https://github.com/votre-username/password-security-validator.git
+git clone https://github.com/Hamad-ali-abdourazak/password-security-validator.git
 cd password-security-validator
 
 # Installer les dépendances
@@ -118,6 +114,7 @@ Le projet utilise GitHub Actions pour :
 
 ## 👤 Auteur
 
+Hamad Ali Abdourazak - [GitHub](https://github.com/Hamad-ali-abdourazak)
 
 ### Technologies utilisées
 - **Python 3.9+** - Langage principal
